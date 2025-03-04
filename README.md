@@ -1,21 +1,9 @@
-## Hi there 👋
-
-<!--
-**hyerongii/hyerongii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=hyerongii&fontSize=90)
+
+
+
+
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyerongii&utm_content=farm">
 <img
@@ -24,3 +12,4 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/heyrong22" width="600" height="300"/></a>
