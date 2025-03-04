@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=FDB7EA&height=300&section=header&text=hyerongii&fontSize=70&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=blur&color=FDB7EA&height=300&section=header&text=hyerongii&fontSize=70&fontColor=000000)
 
 
 
