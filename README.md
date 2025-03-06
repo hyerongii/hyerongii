@@ -1,45 +1,75 @@
+<div align="center">
 
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=blur&color=FDB7EA&height=150&section=header&text=hyerongii%20•̑%20‧̫%20•̑&fontColor=482e42&fontSize=50" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
-          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Matlab-0076a8?style=for-the-badge&logo=Matlab&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=mailto:heyrong22@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:heyrong22@gmail.com"> </a>
-          </div>  <br> 
-    <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyerongii%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyerongii&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
-    
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EBEDDF&text=&animation=twinkling&height=80" />
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyerongii&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/hyerongii?pet-id=684655130920713470"
-    width="600"
-    height="300"
-  />
-</a>
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/heyrong22" width="600" height="300"/></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=45&duration=3500&pause=1000000000&color=482E42&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+hyerongii's+GitHub!)](https://git.io/typing-svg)
+<br/>   
+<br/>  
+
+  [![Tech Stacks](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&pause=1000000&color=333A2F&center=true&vCenter=true&width=435&lines=📂+Tech+Stacks)](https://git.io/typing-svg)
+<br/>    
+  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)   
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)   
+  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![Wear OS](https://img.shields.io/badge/-Wear%20OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white)   
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+  ![Matlab](https://img.shields.io/badge/Matlab-0076a8?style=for-the-badge&logo=Matlab&logoColor=white)
+
+  <br/>
+
+  [![Studying](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&pause=1000000&color=333A2F&center=true&vCenter=true&width=435&lines=📗+Studying)](https://git.io/typing-svg)
+<br/>   
+  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+  ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+
+  <br/>
+
+  [![Tools](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&pause=1000000&color=333A2F&center=true&vCenter=true&width=435&lines=🛠️+Tools)](https://git.io/typing-svg)
+<br/>   
+  
+  ![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/gitlab-%23FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=black)   
+  ![VS Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/visual%20studio-%235C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/android%20studio-%233DDC84.svg?&style=for-the-badge&logo=android%20studio&logoColor=black)    
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
+  ![Jira](https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+
+  <br/>
+
+  [![About me](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&pause=1000000&color=333A2F&center=true&vCenter=true&width=435&lines=😺+About+me+😺)](https://git.io/typing-svg)
+<br/> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=482E42&center=true&vCenter=true&width=435&lines=Turning+coffee+into+code;And+cat+lover)](https://git.io/typing-svg)
+
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:heyrong22@gmail.com)
+  [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_hyerongii/)
+
+  <br/>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=hyerongii&show_icons=true&theme=transparent" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyerongii&layout=compact&theme=transparent&langs_count=4&card_width=400" width="48%" />
+
+
+  <br/>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyerongii&utm_content=line">
+    <img src="https://render.gitanimals.org/lines/hyerongii?pet-id=684655130920713470" width="600" height="300" />
+  </a>
+  <a href="https://www.solve-nyang.com">
+    <img src="https://api.solve-nyang.com/compose/heyrong22" width="600" height="300"/>
+  </a>
+</div>
