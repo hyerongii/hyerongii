@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=EBEDDF&text=&animation=twinkling&height=80" />
 
-<--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=45&duration=3500&pause=1000000000&color=482E42&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+hyerongii's+GitHub!)](https://git.io/typing-svg)-->
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=45&duration=3500&pause=1000000000&color=482E42&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+hyerongii's+GitHub!)](https://git.io/typing-svg)-->
 <br/>   
 <br/>  
 
